@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Chinese_food</string>
+    <string name="History">Evidence of preparing roasted duck in China goes as far back as the Southern and Northern dynasties (420-589). However, it wasnot until the Yuan dynasty (1271-1368) that the dish association with the imperial court was first recorded, in the form of a 1330 cookbook by a royal dietary physician by the name of Hu Sihui. Hu recipe called for a rather elaborate preparation,where the duck was roasted inside the stomach of a sheep.Interestingly, although Peking duck is named after Beijing (Peking is an older spelling), it originated in the former Chinese capital of Nanjing, which lies in the eastern province of Jiangsu. In the Ming dynasty, the imperial court moved to Beijing, bringing roasted duck along with it. By then, Peking duck was an established staple of imperial menus. In the Qing dynasty, Peking duck spread to the nobility, where the dish was much praised in the writings of scholars and poets.</string>
+    <string name="Recipe">Recipe for preparing peking duck</string>
+    <string name="step1">Pat dry the duck with kitchen paper to remove moisture.Rub a layer of salt and leave it for 1 hours.</string>
+    <string name="step2">Hold the duck over a pot of boiling water then use a ladle to pour water over the duck. As soon as the hot water touches the skin it tightens the skin and make it look shinier and smoother. You might notice some feathers appearing remove it using tweezers.</string>
+    <string name="step3">The key ingredient is used called maltoseMai Ya Tang/麦芽糖), which is a type of syrup with dense,sticky  consistency used in Chinese cuisine.Add hot water to soften and dilute maltose and add small amount of vinegar. Brush one layer over the entire duck skin and leave it dry for 1 hour in the freeze and then brush another layer.</string>
+    <string name="step4">Last process is to air dry the duck this process reduces the moisture in the skin helping to make it crisp up while roasting.Put the duck in the fridge without any cover.Keep it there for 24 to 48 hours. You can shorten the process by blowing cool air at the duck with a fan if available</string>
+    <string name="hotpot1">The picture shows how a traditional Chinese hotpot looks like.</string>
+    <string name="hotpot2">Hot pot: you know it, you love it, and you want more of it. It honestly might be an experience first and foremost, because hot pot is all about the communal cooking, the coming together of friends and family, and everything in between.Its Chinese name, 火锅 (huǒguō), literally translates into “fire pot”.
+
+This, to be fair, is because it’s essentially a pot of simmering soup cooking your foods of choice the entire meal. In any case, it’s great.
+
+Hot pot has its variants across numerous East and Southeast Asian cuisines, but the one we’ll be focusing on today its Chinese one.
+
+With over 2,000 years of history, the importance of hot pot to Chinese culture is understandable.</string>
+    <string name="hotpot3">The importance of hot pot is in part due to its consistent warmth, as it’s kept simmering throughout the entire meal.Hotpot split into two different flavors, spicy and light.Two different flavors. Spicy and Light
+Additionally, eating hot pot is not only a lunch or dinner; it often also serves as a social event.</string>
+    <string name="Haidi">Chinese name: 海底捞火锅 Hǎidǐ Lāo Huǒguō which means Sea-bottom Fishing Hotpot
+
+Hai Di Lao is a chain of hotpot restaurants founded in Sichuan Province in 1994, specializing in Sichuan hotpot.</string>
+    <string name="Huangcheng">Chinese name: 皇城老妈 Huángchéng Lǎomā  Imperial City Mom
+
+Huangcheng Laoma Restaurant, one of the most famous traditional hotpot brands in China, is regarded as a worthy representative of Sichuan culture and cuisine.</string>
+    <string name="Tan_fish">Tan Fish Head, Chinese name:
+谭氏鱼头 founded in Chengdu, Sichuan Province in 1996, is well-known for its delicious fish head hotpot.</string>
+    <string name="dim_sum1">Dim sum is a traditional Chinese meal made up of small plates of dumplings and other snack dishes and is usually accompanied by tea. Similar to the way that the Spanish eat tapas, the dishes are shared among family and friends. Typically dim sum is consumed during brunch hours — late morning to lunchtime.</string>
+    <string name="dim_sum2">Nowadays, dim sum is eaten all over China and the world, but the dishes are believed to have originated in the southern China’s Guangdong region before eventually making their way to Hong Kong. According to food magazine Lucky Peach, Cantonese dim sum culture began in tearooms in the latter half of the 19th century in the port city of Guangzhou, the capital of Guangdong, after opium dens were banned throughout the country. Silk Road travelers and traders would take breaks in tea houses for a dim sum meal. As they continued to travel, the practice continued to spread and gained popularity throughout the region, especially in Hong Kong.
+
+Nowadays, dim sum can include dishes and traditions adopted from other parts of China. But by and large, the culinary form remains the same as ever.</string>
+</resources>

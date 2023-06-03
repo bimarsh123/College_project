@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView36"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="711dp"
+        android:background="@color/Analogous"
+        android:text="Type of dim sum"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/myImageView"
+        android:layout_width="205dp"
+        android:layout_height="134dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/dim_sum2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView36" />
+
+    <TextView
+        android:id="@+id/myImageViewText"
+        android:layout_width="87dp"
+        android:layout_height="24dp"
+        android:layout_alignLeft="@id/myImageView"
+        android:layout_alignTop="@id/myImageView"
+        android:layout_alignRight="@id/myImageView"
+        android:layout_alignBottom="@+id/myImageView"
+        android:gravity="bottom|left"
+        android:text="SIU MAI"
+        android:textColor="@color/peking"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/myImageView"
+        app:layout_constraintEnd_toEndOf="@+id/myImageView"
+        app:layout_constraintStart_toStartOf="@+id/myImageView" />
+
+    <ImageView
+        android:id="@+id/myImageView2"
+        android:layout_width="207dp"
+        android:layout_height="134dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/xiaolong"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/myImageView"
+        app:layout_constraintTop_toBottomOf="@+id/textView36" />
+
+    <TextView
+        android:id="@+id/myImageViewText2"
+        android:layout_width="152dp"
+        android:layout_height="23dp"
+        android:layout_alignLeft="@id/myImageView"
+        android:layout_alignTop="@id/myImageView"
+        android:layout_alignRight="@id/myImageView"
+        android:layout_alignBottom="@+id/myImageView"
+        android:gravity="bottom|left"
+        android:text="XIAO LONG BAO"
+        android:textColor="@color/peking"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/myImageView2"
+        app:layout_constraintEnd_toEndOf="@+id/myImageView2"
+        app:layout_constraintStart_toEndOf="@+id/myImageView" />
+
+    <ImageView
+        android:id="@+id/myImageView3"
+        android:layout_width="205dp"
+        android:layout_height="135dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/wu_gok"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/myImageView" />
+
+    <TextView
+        android:id="@+id/myImageViewText3"
+        android:layout_width="83dp"
+        android:layout_height="28dp"
+        android:layout_alignLeft="@id/myImageView"
+        android:layout_alignTop="@id/myImageView"
+        android:layout_alignRight="@id/myImageView"
+        android:layout_alignBottom="@+id/myImageView"
+        android:layout_marginBottom="4dp"
+        android:gravity="bottom|left"
+        android:text="WU GOK"
+        android:textColor="@color/peking"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/myImageView3"
+        app:layout_constraintEnd_toEndOf="@+id/myImageView3"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/myImageView4"
+        android:layout_width="205dp"
+        android:layout_height="135dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/lok_bak_gou"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/myImageView3"
+        app:layout_constraintTop_toBottomOf="@+id/myImageView2" />
+
+    <TextView
+        android:id="@+id/myImageViewText4"
+        android:layout_width="128dp"
+        android:layout_height="31dp"
+        android:layout_alignLeft="@id/myImageView"
+        android:layout_alignTop="@id/myImageView"
+        android:layout_alignRight="@id/myImageView"
+        android:layout_alignBottom="@+id/myImageView"
+        android:gravity="bottom|left"
+        android:text=" LU BAK GAO"
+        android:textColor="@color/peking"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/myImageView4"
+        app:layout_constraintEnd_toEndOf="@+id/myImageView4"
+        app:layout_constraintStart_toEndOf="@+id/myImageView3" />
+
+    <ImageView
+        android:id="@+id/myImageView5"
+        android:layout_width="205dp"
+        android:layout_height="135dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/har_gow"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/myImageView3" />
+
+    <TextView
+        android:id="@+id/myImageViewText5"
+        android:layout_width="128dp"
+        android:layout_height="31dp"
+        android:gravity="bottom|left"
+        android:text="HAR GOW"
+        android:textColor="@color/peking"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/myImageView5"
+        app:layout_constraintEnd_toEndOf="@+id/myImageView5"
+        app:layout_constraintStart_toStartOf="@+id/myImageView5" />
+
+    <ImageView
+        android:id="@+id/myImageView6"
+        android:layout_width="205dp"
+        android:layout_height="135dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/char_siu_bao"
+        app:layout_constraintEnd_toEndOf="@+id/myImageView4"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/myImageView5"
+        app:layout_constraintTop_toBottomOf="@+id/myImageView4" />
+
+    <TextView
+        android:id="@+id/myImageViewText6"
+        android:layout_width="156dp"
+        android:layout_height="35dp"
+        android:gravity="bottom|left"
+        android:text="CHAR SIU BAO"
+        android:textColor="@color/peking"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/myImageView6"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/myImageView5" />
+
+    <ImageView
+        android:id="@+id/myImageView7"
+        android:layout_width="205dp"
+        android:layout_height="135dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/cheung_fun"
+        app:layout_constraintStart_toStartOf="@+id/myImageView5"
+        app:layout_constraintTop_toBottomOf="@+id/myImageView5" />
+
+    <TextView
+        android:id="@+id/myImageViewText7"
+        android:layout_width="134dp"
+        android:layout_height="35dp"
+        android:gravity="bottom|left"
+        android:text="CHEUNG FUN"
+        android:textColor="@color/peking"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/myImageView7"
+        app:layout_constraintEnd_toEndOf="@+id/myImageView7"
+        app:layout_constraintStart_toStartOf="@+id/myImageView7" />
+
+    <ImageView
+        android:id="@+id/myImageView8"
+        android:layout_width="205dp"
+        android:layout_height="135dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/ham_sui_gok"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/myImageView7"
+        app:layout_constraintTop_toBottomOf="@+id/myImageView6" />
+
+    <TextView
+        android:id="@+id/myImageViewText8"
+        android:layout_width="134dp"
+        android:layout_height="35dp"
+        android:gravity="bottom|left"
+        android:text="HAM SUI GOK"
+        android:textColor="@color/peking"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/myImageView8"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/myImageView7" />
+
+    <ImageView
+        android:id="@+id/myImageView9"
+        android:layout_width="206dp"
+        android:layout_height="172dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/zhaliang"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/myImageView7" />
+
+    <TextView
+        android:id="@+id/myImageViewText9"
+        android:layout_width="107dp"
+        android:layout_height="32dp"
+        android:gravity="bottom|left"
+        android:text="ZHALIANG"
+        android:textColor="@color/peking"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/myImageView9"
+        app:layout_constraintEnd_toEndOf="@+id/myImageView9"
+        app:layout_constraintStart_toStartOf="@+id/myImageView9" />
+
+    <ImageView
+        android:id="@+id/myImageView10"
+        android:layout_width="202dp"
+        android:layout_height="170dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/jeen_dui"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/myImageView9"
+        app:layout_constraintTop_toBottomOf="@+id/myImageView8" />
+
+    <TextView
+        android:id="@+id/myImageViewText10"
+        android:layout_width="90dp"
+        android:layout_height="29dp"
+        android:gravity="bottom|left"
+        android:text="JEEN DUI"
+        android:textColor="@color/peking"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/myImageView10"
+        app:layout_constraintEnd_toEndOf="@+id/myImageView10"
+        app:layout_constraintStart_toEndOf="@+id/myImageView9" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
