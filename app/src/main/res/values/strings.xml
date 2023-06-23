@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">Chinese_food</string>
-    <string name="History">Evidence of preparing roasted duck in China goes as far back as the Southern and Northern dynasties (420-589). However, it wasnot until the Yuan dynasty (1271-1368) that the dish association with the imperial court was first recorded, in the form of a 1330 cookbook by a royal dietary physician by the name of Hu Sihui. Hu recipe called for a rather elaborate preparation,where the duck was roasted inside the stomach of a sheep.Interestingly, although Peking duck is named after Beijing (Peking is an older spelling), it originated in the former Chinese capital of Nanjing, which lies in the eastern province of Jiangsu. In the Ming dynasty, the imperial court moved to Beijing, bringing roasted duck along with it. By then, Peking duck was an established staple of imperial menus. In the Qing dynasty, Peking duck spread to the nobility, where the dish was much praised in the writings of scholars and poets.</string>
+    <string name="app_name">Chinese food</string>
+    <string name="History">Evidence of preparing roasted duck in China goes as far back as the Southern and Northern dynasties (420–589). However, it wasnot until the Yuan dynasty (1271–1368) that the dish association with the imperial court was first recorded, in the form of a 1330 cookbook by a royal dietary physician by the name of Hu Sihui. Hu recipe called for a rather elaborate preparation,where the duck was roasted inside the stomach of a sheep.Interestingly, although Peking duck is named after Beijing (Peking is an older spelling), it originated in the former Chinese capital of Nanjing, which lies in the eastern province of Jiangsu. In the Ming dynasty, the imperial court moved to Beijing, bringing roasted duck along with it. By then, Peking duck was an established staple of imperial menus. In the Qing dynasty, Peking duck spread to the nobility, where the dish was much praised in the writings of scholars and poets.</string>
     <string name="Recipe">Recipe for preparing peking duck</string>
     <string name="step1">Pat dry the duck with kitchen paper to remove moisture.Rub a layer of salt and leave it for 1 hours.</string>
     <string name="step2">Hold the duck over a pot of boiling water then use a ladle to pour water over the duck. As soon as the hot water touches the skin it tightens the skin and make it look shinier and smoother. You might notice some feathers appearing remove it using tweezers.</string>
@@ -28,4 +28,92 @@ Huangcheng Laoma Restaurant, one of the most famous traditional hotpot brands in
     <string name="dim_sum2">Nowadays, dim sum is eaten all over China and the world, but the dishes are believed to have originated in the southern China’s Guangdong region before eventually making their way to Hong Kong. According to food magazine Lucky Peach, Cantonese dim sum culture began in tearooms in the latter half of the 19th century in the port city of Guangzhou, the capital of Guangdong, after opium dens were banned throughout the country. Silk Road travelers and traders would take breaks in tea houses for a dim sum meal. As they continued to travel, the practice continued to spread and gained popularity throughout the region, especially in Hong Kong.
 
 Nowadays, dim sum can include dishes and traditions adopted from other parts of China. But by and large, the culinary form remains the same as ever.</string>
+    <string name="tofu">A signature dish of Sichuan cuisine, Mapo tofu (麻婆豆腐) is believed to be named after its inventor Mapo/麻婆 who ran a small restaurant over a century ago in Chengdu, the capital of Sichuan province.
+A signature dish of Sichuan cuisine, Mapo tofu (麻婆豆腐) is believed to be named after its inventor Mapo/麻婆 who ran a small restaurant over a century ago in Chengdu, the capital of Sichuan province.</string>
+    <string name="tofu2">Mapo tofu (麻婆豆腐, ma po dou fu) is one of the most popular dishes from Sichuan cuisine. The tofu pieces are braised in a rich spicy, and savory sauce along with fresh garlic and scallions, with a small amount of ground pork to enhance the flavor. The dish is so appetizing and it goes perfectly with steamed rice.</string>
+    <string name="tofu4">Sichuan peppercorn (花椒, hua jiao) is another main ingredient in any Sichuan dishes. It has a citrusy taste with a numbing tingling sensation when you chew on it. It is a secret to add aroma to your dish that no other ingredient can replace.</string>
+    <string name="tofu5">The other important ingredient is chili oil (辣椒油). Although you can purchase bottled chili oil at the grocery store, I highly recommend you make it at home. Freshly cooked chili oil tastes much better than store-bought and is free of additives.</string>
+    <string name="tofu3">Doubanjiang (豆瓣酱), also known as spicy fermented bean paste or broad bean sauce, is the most important ingredient in mapo tofu. And it has a strong fermented savory, salty and spicy taste.</string>
+    <string name="chowmein">The word Chow Mein resembles the Cantonese pronunciation of the dish (The phonetics in Mandarin is Chǎo Miàn). Chow refers to the action of stir-frying, whereas Mein is the general word for noodles.  The typical components of Chinese chow mein include noodles, a type of protein, vegetables, aromatics and a sauce. When homemade, it is very much of a fridge-forage meal, meaning you use what is available in your kitchen. The mix and match options are numerous.</string>
+    <string name="chowmein2">There are two types of chow mein.  Crisp chow mein – Where the noodles are pressed flat when frying, to make a sort of pancake Steamed chow mein – Where the noodles are fried while tossing and coated in a sauce after the initial frying To make chow mein, after boiling, the noodles are fried in oil (without any accompaniments).  After the initial frying, sauce or accompaniments are added to the noodles.  In chow mein, the noodles really are the star of the show, so any vegetable or protein add-ins are kept to a minimum so they donot distract from the perfectly crispy noodles.</string>
+    <string name="noodles">Noodles are a kind of cereal food, which is the main body of the traditional Chinese diet. It is the main source of energy for Chinese people and the most economical energy food.t also shows very unique style and great attainments in noodle – a simple but very popular food in China. Noodles are easy to cook, with a wide range of cooking methods and ever-changing flavors.In China, noodles are not only an important food, but also have a long history and are deeply entwined with the country’s culture. For many Chinese, noodles symbolize good luck and are often eaten on special occasions.
+Noodles are thought to have originated in China over 4,000 years ago.  </string>
+    <string name="hotpot_Type">Types of HotPot</string>
+    <string name="hotpot3.1">Choose your favourites spot to eat hotpot</string>
+    <string name="hotpot3.2">1. Haidi Lao Hotpot</string>
+    <string name="hotpot3.3">2. Huangcheng Laoma</string>
+    <string name="hotpot3.4">3. Tan\'s Fish Head </string>
+    <string name="hotpot3.5">4. Little sheep Hotpot </string>
+    <string name="hotpot3.6">Little Sheep, Chinese name:小肥羊火锅 founded in 1999 in Baotou, Inner Mongolia, specializing in mutton/lamb hotpot restaurants, has over 300 chain restaurants in China.</string>
+
+
+    <string name="hotpot1.1">Hot Pot</string>
+    <string name="hotpot1.2">Scroll to see more about hot pot</string>
+
+    <string name="hotpot2.1">About Hotpot</string>
+    <string name="hotpot2.2">"Picture: 火锅 (huǒguō)</string>
+    <string name="hotpot2.3">Sichaun HotPot</string>
+    <string name="hotpot_button">Toast</string>
+    <string name="hotpot2.4">Click to go to next page</string>
+
+    <string name="Chowmein">Chinese noodles</string>
+    <string name="Chowmein2">Why are Noodles popular in China?</string>
+    <string name="Chowmein1">The two pictures above shows the different types of Noodles found in China.</string>
+    <string name="Chowmein_button">Exit</string>
+
+
+    <string name="dim_sum">Dim Sum</string>
+    <string name="dim_sum1.1">Brief History</string>
+    <string name="dim_sum_button">Next page</string>
+    <string name="dim_sum1.2">Click button to go to next page</string>
+    <string name="dim">Next page</string>
+
+
+    <string name="dim_sum2.1">Type of dim sum</string>
+    <string name="dim_sum2.2">SIU MAI</string>
+    <string name="dim_sum2.3">XIAO LONG BAO</string>
+    <string name="dim_sum2.4">WU GOK</string>
+    <string name="dim_sum2.5">LU BAK GAO</string>
+    <string name="dim_sum2.6">HAR GOW</string>
+    <string name="dim_sum2.7">CHAR SIU BAO</string>
+    <string name="dim_sum2.8">CHEUNG FUN</string>
+    <string name="dim_sum2.9">HAM SUI GOK</string>
+    <string name="dim_sum2.10">ZHALIANG</string>
+    <string name="dim_sum2.11">JEEN DUI</string>
+
+    <string name="mo_po_tofu">Ma po tofu</string>
+    <string name="mo_po_tofu1">Key ingredient for making ma po tofu</string>
+    <string name="mo_po_tofu2">Doubanjiang</string>
+    <string name="mo_po_tofu3">Sichuan peppercorns</string>
+    <string name="mo_po_tofu4">Homemade chili oil</string>
+    <string name="mo_po_tofu_button">Page 5</string>
+
+    <string name="peking_duck">Peking Duck</string>
+    <string name="peking_duck1">The picture above shows roasted peking duck</string>
+
+    <string name="peking_duck2">Brief History of peking duck</string>
+    <string name="peking_duck3">Image of a Beijing restaurant serving peking duck</string>
+
+    <string name="peking_duck4">Delicious peking duck</string>
+    <string name="peking_duck5">Click here</string>
+    <string name="peking_duck6">Click the button below to check the recipe</string>
+
+
+    <string name="peking_duck7">Recipe for making peking duck</string>
+    <string name="peking_duck8">Step1:</string>
+    <string name="peking_duck9">Step 2:</string>
+    <string name="peking_duck10">Step 3:</string>
+    <string name="peking_duck11">Step 4:</string>
+    <string name="peking_duck12">Click to go back to homepage</string>
+    <string name="landing_page">Chinese Food</string>
+
+    <string name="rating1">Please do like and give rating if you like the app</string>
+    <string name="rating2">Your rating will be displayed here:</string>
+
+    <string name="Button1">List View</string>
+    <string name="Button2">Rate app</string>
+    <string name="Button3">App</string>
+    <string name="Button4">Play video</string>
+
+
 </resources>

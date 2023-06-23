@@ -11,7 +11,7 @@
         android:layout_alignParentBottom="true"
         android:layout_marginBottom="711dp"
         android:background="@color/Analogous"
-        android:text="Type of dim sum"
+        android:text="@string/dim_sum2.1"
         android:textSize="15sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
@@ -36,7 +36,7 @@
         android:layout_alignRight="@id/myImageView"
         android:layout_alignBottom="@+id/myImageView"
         android:gravity="bottom|left"
-        android:text="SIU MAI"
+        android:text="@string/dim_sum2.2"
         android:textColor="@color/peking"
         android:textSize="20sp"
         android:textStyle="bold"
@@ -64,7 +64,7 @@
         android:layout_alignRight="@id/myImageView"
         android:layout_alignBottom="@+id/myImageView"
         android:gravity="bottom|left"
-        android:text="XIAO LONG BAO"
+        android:text="@string/dim_sum2.3"
         android:textColor="@color/peking"
         android:textSize="20sp"
         android:textStyle="bold"
@@ -89,14 +89,15 @@
         android:layout_alignTop="@id/myImageView"
         android:layout_alignRight="@id/myImageView"
         android:layout_alignBottom="@+id/myImageView"
-        android:layout_marginBottom="4dp"
+        android:layout_marginBottom="104dp"
         android:gravity="bottom|left"
-        android:text="WU GOK"
+        android:text="@string/dim_sum2.4"
         android:textColor="@color/peking"
         android:textSize="20sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="@+id/myImageView3"
         app:layout_constraintEnd_toEndOf="@+id/myImageView3"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent" />
 
     <ImageView
@@ -119,7 +120,7 @@
         android:layout_alignRight="@id/myImageView"
         android:layout_alignBottom="@+id/myImageView"
         android:gravity="bottom|left"
-        android:text=" LU BAK GAO"
+        android:text="@string/dim_sum2.5"
         android:textColor="@color/peking"
         android:textSize="20sp"
         android:textStyle="bold"
@@ -140,13 +141,15 @@
         android:id="@+id/myImageViewText5"
         android:layout_width="128dp"
         android:layout_height="31dp"
+        android:layout_marginBottom="8dp"
         android:gravity="bottom|left"
-        android:text="HAR GOW"
+        android:text="@string/dim_sum2.6"
         android:textColor="@color/peking"
         android:textSize="20sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="@+id/myImageView5"
         app:layout_constraintEnd_toEndOf="@+id/myImageView5"
+        app:layout_constraintHorizontal_bias="0.493"
         app:layout_constraintStart_toStartOf="@+id/myImageView5" />
 
     <ImageView
@@ -164,13 +167,15 @@
         android:id="@+id/myImageViewText6"
         android:layout_width="156dp"
         android:layout_height="35dp"
+        android:layout_marginBottom="100dp"
         android:gravity="bottom|left"
-        android:text="CHAR SIU BAO"
+        android:text="@string/dim_sum2.7"
         android:textColor="@color/peking"
         android:textSize="20sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="@+id/myImageView6"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.02"
         app:layout_constraintStart_toEndOf="@+id/myImageView5" />
 
     <ImageView
@@ -186,13 +191,15 @@
         android:id="@+id/myImageViewText7"
         android:layout_width="134dp"
         android:layout_height="35dp"
+        android:layout_marginBottom="88dp"
         android:gravity="bottom|left"
-        android:text="CHEUNG FUN"
+        android:text="@string/dim_sum2.8"
         android:textColor="@color/peking"
         android:textSize="20sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="@+id/myImageView7"
         app:layout_constraintEnd_toEndOf="@+id/myImageView7"
+        app:layout_constraintHorizontal_bias="0.535"
         app:layout_constraintStart_toStartOf="@+id/myImageView7" />
 
     <ImageView
@@ -211,7 +218,7 @@
         android:layout_width="134dp"
         android:layout_height="35dp"
         android:gravity="bottom|left"
-        android:text="HAM SUI GOK"
+        android:text="@string/dim_sum2.9"
         android:textColor="@color/peking"
         android:textSize="20sp"
         android:textStyle="bold"
@@ -232,13 +239,15 @@
         android:id="@+id/myImageViewText9"
         android:layout_width="107dp"
         android:layout_height="32dp"
+        android:layout_marginBottom="132dp"
         android:gravity="bottom|left"
-        android:text="ZHALIANG"
+        android:text="@string/dim_sum2.10"
         android:textColor="@color/peking"
         android:textSize="20sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="@+id/myImageView9"
         app:layout_constraintEnd_toEndOf="@+id/myImageView9"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="@+id/myImageView9" />
 
     <ImageView
@@ -256,13 +265,15 @@
         android:id="@+id/myImageViewText10"
         android:layout_width="90dp"
         android:layout_height="29dp"
+        android:layout_marginBottom="136dp"
         android:gravity="bottom|left"
-        android:text="JEEN DUI"
+        android:text="@string/dim_sum2.11"
         android:textColor="@color/peking"
         android:textSize="20sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="@+id/myImageView10"
         app:layout_constraintEnd_toEndOf="@+id/myImageView10"
+        app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toEndOf="@+id/myImageView9" />
 
 

@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@color/teal_700"
+    android:background="@drawable/background_3"
     android:padding="15dp">
 
     <TextView
@@ -13,8 +13,9 @@
         android:layout_height="wrap_content"
         android:gravity="center_horizontal"
         android:padding="10dp"
-        android:text="Recipe for making peking duck"
-        android:textSize="25sp" />
+        android:text="@string/peking_duck7"
+        android:textSize="25sp"
+        android:textStyle="bold" />
 
     <TableLayout
         android:layout_width="match_parent"
@@ -29,7 +30,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:padding="15dp"
-                android:text="Step1:"
+                android:text="@string/peking_duck8"
                 android:textStyle="bold" />
 
         </TableRow>
@@ -54,7 +55,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:padding="15dp"
-                android:text="Step 2:"
+                android:text="@string/peking_duck9"
                 android:textStyle="bold" />
         </TableRow>
 
@@ -78,7 +79,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:padding="15dp"
-                android:text="Step 3:"
+                android:text="@string/peking_duck10"
                 android:textStyle="bold" />
         </TableRow>
 
@@ -102,7 +103,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:padding="15dp"
-                android:text="Step 4:"
+                android:text="@string/peking_duck11"
                 android:textStyle="bold" />
         </TableRow>
 
@@ -124,6 +125,7 @@
         android:layout_height="wrap_content"
         android:gravity="center_horizontal"
         android:padding="15dp"
-        android:text="Click to go back to homepage" />
+        android:onClick="Next_page2"
+        android:text="@string/peking_duck12" />
 
 </LinearLayout>

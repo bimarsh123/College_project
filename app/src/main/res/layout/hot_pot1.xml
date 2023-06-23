@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:background="@color/cardview_dark_background"
 
-        android:text="Hot Pot"
+        android:text="@string/hotpot1.1"
         android:textColor="#FF5252"
         android:textSize="75sp"
         android:textStyle="bold"
@@ -53,7 +53,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="17dp"
         android:gravity="left"
-        android:text="Scroll to see more about hot pot"
+        android:text="@string/hotpot1.2"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

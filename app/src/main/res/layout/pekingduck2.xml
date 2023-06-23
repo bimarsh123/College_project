@@ -12,7 +12,7 @@
         android:id="@+id/textView3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Brief History of peking duck"
+        android:text="@string/peking_duck2"
         android:textSize="20sp"
         android:textStyle="bold" />
 
@@ -36,8 +36,10 @@
             android:id="@+id/textView8"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Image of a Beijing restaurant serving peking duck"
-            android:textSize="35sp" />
+            android:background="@color/Olive_Green"
+            android:text="@string/peking_duck3"
+            android:textSize="35sp"
+            android:textStyle="bold|italic" />
 
         <ImageView
             android:id="@+id/imageView2"

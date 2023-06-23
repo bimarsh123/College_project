@@ -11,7 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="16dp"
-        android:text="Peking Duck"
+        android:text="@string/peking_duck"
         android:textSize="50sp"
         android:textStyle="bold|italic" />
 
@@ -29,6 +29,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="16dp"
-        android:text="The picture above shows roasted peking duck"
+        android:text="@string/peking_duck1"
         android:textSize="20sp" />
 </LinearLayout>
